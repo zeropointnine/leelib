@@ -32,9 +32,9 @@ package leelib.util.flvEncoder
 			this.length = uint($len);
 		}
 		
-		public function cleanup():void
+		public function kill():void
 		{
-			this.clear();
+			this.length = 0;
 		}
 	}
 }

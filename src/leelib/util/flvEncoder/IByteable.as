@@ -22,6 +22,6 @@ package leelib.util.flvEncoder
 
 		function get len():Number;
 		
-		function cleanup():void;
+		function kill():void;
 	}
 }

@@ -31,7 +31,7 @@ package leelib.util.flvEncoder
 			return _file.size;
 		}
 		
-		public function cleanup():void
+		public function kill():void
 		{
 		}
 	}
