@@ -4,7 +4,7 @@ http://www.zeropointnine.com/blog
 3-29-2011
 Package version: v0.9b
 
-Creates FLV's with video and audio.
+Creates uncompressed FLV's with video and audio without server-side dependency.
 
 See http://www.zeropointnine.com/blog/updated-flv-encoder-alchemy for more info.
 

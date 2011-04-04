@@ -21,7 +21,7 @@ package leelibExamples.flvEncoder.webcam
 	import flash.utils.getTimer;
 	import flash.utils.setTimeout;
 	
-	import leelib.util.MicRecorderUtil;
+	import leelib.util.flvEncoder.MicRecorderUtil;
 	import leelib.util.flvEncoder.ByteArrayFlvEncoder;
 	import leelib.util.flvEncoder.FlvEncoder;
 	
